@@ -10,9 +10,9 @@ python3.6.0
 
 ## 使用
 
-在 example.py 第 32 行修改为自己的本地存储路径
-cd mizitu
-scrapy crawl mzitu
+在 example.py 第 32 行修改为自己的本地存储路径  
+cd mizitu  
+scrapy crawl mzitu  
 
 ## 功能/特点
 
